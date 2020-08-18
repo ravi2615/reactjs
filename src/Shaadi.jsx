@@ -26,7 +26,7 @@ return(
         <Route exact path="/about" component={ShaadiAbout} />
         <Route exact path="/profile" component={Profile} />
         <Route exact path="/contact" component={Contact} />
-        <Redirect to="/" />
+        {/* <Redirect to="/" /> */}
     </Switch> 
     <ShaadiFooter />
     <ScrollUpButton />
