@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactjs/static/css/main.3ef0cc22.chunk.css",
+    "main.css": "/reactjs/static/css/main.26cbf20f.chunk.css",
     "main.js": "/reactjs/static/js/main.7578c9a2.chunk.js",
     "main.js.map": "/reactjs/static/js/main.7578c9a2.chunk.js.map",
     "runtime-main.js": "/reactjs/static/js/runtime-main.ee8c4b6a.js",
@@ -9,10 +9,10 @@
     "static/js/2.21441152.chunk.js": "/reactjs/static/js/2.21441152.chunk.js",
     "static/js/2.21441152.chunk.js.map": "/reactjs/static/js/2.21441152.chunk.js.map",
     "index.html": "/reactjs/index.html",
-    "precache-manifest.715f1d123eaddeff48865c5502ea9e0a.js": "/reactjs/precache-manifest.715f1d123eaddeff48865c5502ea9e0a.js",
+    "precache-manifest.37b28121d068994755ab825cc59248b8.js": "/reactjs/precache-manifest.37b28121d068994755ab825cc59248b8.js",
     "service-worker.js": "/reactjs/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/reactjs/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.3ef0cc22.chunk.css.map": "/reactjs/static/css/main.3ef0cc22.chunk.css.map",
+    "static/css/main.26cbf20f.chunk.css.map": "/reactjs/static/css/main.26cbf20f.chunk.css.map",
     "static/js/2.21441152.chunk.js.LICENSE.txt": "/reactjs/static/js/2.21441152.chunk.js.LICENSE.txt",
     "static/media/Home-Couple-Optimized.png": "/reactjs/static/media/Home-Couple-Optimized.aabd2075.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.ee8c4b6a.js",
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.21441152.chunk.js",
-    "static/css/main.3ef0cc22.chunk.css",
+    "static/css/main.26cbf20f.chunk.css",
     "static/js/main.7578c9a2.chunk.js"
   ]
 }
