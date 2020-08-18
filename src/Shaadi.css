@@ -247,7 +247,7 @@
 
 @media (max-width: 991px) {
     .card{
-        margin: 0 55px;
+        /* margin: 0 55px; */
         height: auto!important;
         width: 70%!important;
         box-shadow: 0 0 10px 0 #cad9e7;
