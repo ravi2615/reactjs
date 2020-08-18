@@ -416,8 +416,8 @@ textarea {
 @media (max-width: 991px) {
     .contanct_div{
         width: 70%!important;
-        height: 100vh;
-        padding: 60px 35px 35px 35px;
+        height: auto!important;
+        padding: 40px 30px 30px 30px;
         background: #ecf0f3;
         box-shadow: 13px 13px 20px #cbced1,
                      -13px -13px 20px #ffffff;
