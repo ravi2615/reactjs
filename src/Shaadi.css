@@ -166,49 +166,6 @@
            /*********************************************************mission parts css end**********************************************/
 
 
-
-.notice{
-	background: #f7f7f9;
-	padding: 20px;
-}
-
-.notice p{
-    color: #ffffff;
-}
-
-.notice p:hover{
-	color: #ffffff!important;
-}
-
-#notice .animation {
-    animation: left-right 35s ease infinite both;
-}
-
-#notice .animation:hover {
-    animation:  0s;
-}
-
-@-webkit-keyframes left-right {
-    0%{
-        transform: translateX(-380px);
-    }
-
-    100%{
-        transform: translateX(1390px);
-    }
-}
-
-@keyframes left-right {
-    0%{
-        transform: translateX(-380px);
-    }
-
-    100%{
-        transform: translateX(1390px);
-    }
-}
-
-
 @media (max-width: 991px) {
 
 
@@ -231,29 +188,6 @@
 	transform: translate(0px);
 }
 
-#notice .animation {
-    animation: left-right 15s ease-in-out infinite both;
-}
-
-@-webkit-keyframes left-right {
-    0%{
-        transform: translateX(-390px);
-    }
-
-    100%{
-        transform: translateX(665px);
-    }
-}
-
-@keyframes left-right {
-    0%{
-        transform: translateX(-390px);
-    }
-
-    100%{
-        transform: translateX(665px);
-    }
-}
 
 }
 
@@ -477,4 +411,25 @@ textarea {
     box-shadow: inset 1px 5px 65px #cbced1,
                 inset -1px -5px 65px #cbced1;
     border-radius: 10px!important;
+}
+
+@media (max-width: 991px) {
+    .contanct_div{
+        width: 70%!important;
+        height: 80vh;
+        padding: 60px 35px 35px 35px;
+        background: #ecf0f3;
+        box-shadow: 13px 13px 20px #cbced1,
+                     -13px -13px 20px #ffffff;
+        border-radius: 5%;
+    }
+    .log_div{
+        width: 70%!important;
+        height: 60vh;
+        padding: 60px 35px 35px 35px;
+        background: #ecf0f3;
+        box-shadow: 13px 13px 20px #cbced1,
+                     -13px -13px 20px #ffffff;
+        border-radius: 5%;
+    }
 }
