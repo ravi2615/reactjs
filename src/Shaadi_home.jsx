@@ -23,7 +23,7 @@ return(
                               
                          </h2>
                          <div className=" mt-3">
-                             <NavLink to="/login" className="btn-login"> Login / Sign Up </NavLink>
+                             <NavLink to="/reactjs/login" className="btn-login"> Login / Sign Up </NavLink>
                          </div>
                      </div>
 

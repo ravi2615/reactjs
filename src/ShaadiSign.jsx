@@ -41,8 +41,8 @@ return(
     <>
       <div id="log">
           {/* <h1 className="text-center"> ShaadiLog Us </h1> */}
-            <NavLink to="/login" className="login"> Login /</NavLink>
-            <NavLink to="/sign" className="sign"> Sign Up </NavLink>
+            <NavLink to="/reactjs/login" className="login"> Login /</NavLink>
+            <NavLink to="/reactjs/sign" className="sign"> Sign Up </NavLink>
       </div>
       <div className="container log_div">
           <div className ="row">

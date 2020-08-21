@@ -20,13 +20,13 @@ return(
     <>
     <ShaadiNav />
     <Switch>
-        <Route exact path="/" component={ Shaadi_home } />
-        <Route exact path="/sign" component={ ShaadiLog } />
-        <Route exact path="/login" component={ ShaadiSign } />
-        <Route exact path="/about" component={ShaadiAbout} />
-        <Route exact path="/profile" component={Profile} />
-        <Route exact path="/contact" component={Contact} />
-        <Redirect to="/" />
+        <Route exact path="/reactjs/" component={ Shaadi_home } />
+        <Route exact path="/reactjs/sign" component={ ShaadiLog } />
+        <Route exact path="/reactjs/login" component={ ShaadiSign } />
+        <Route exact path="/reactjs/about" component={ShaadiAbout} />
+        <Route exact path="/reactjs/profile" component={Profile} />
+        <Route exact path="/reactjs/contact" component={Contact} />
+        <Redirect to="/reactjs" />
     </Switch> 
     <ShaadiFooter />
     <ScrollUpButton />
