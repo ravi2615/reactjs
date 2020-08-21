@@ -20,7 +20,7 @@ return(
     <>
     <ShaadiNav />
     <Switch>
-        <Route exact path="/reactjs/" component={ Shaadi_home } />
+        <Route exact path="/reactjs" component={ Shaadi_home } />
         <Route exact path="/reactjs/sign" component={ ShaadiLog } />
         <Route exact path="/reactjs/login" component={ ShaadiSign } />
         <Route exact path="/reactjs/about" component={ShaadiAbout} />
