@@ -6,14 +6,14 @@ const ShaadiNav = () => {
 
 return(
     <>
-    <div className="container-fluid nav_bg fixed-top" >
+    <div className=" nav_bg fixed-top" >
         <div className="row" >
-            <div className="col-10 mx-auto" >
+            <div className="col-12 mx-auto" >
 
 
       <nav className="navbar navbar-expand-lg navbar-light ">
   <div className="container-fluid p-1">
-    <NavLink className="navbar-brand" to="/"> Shaadi.com </NavLink>
+    <NavLink className="navbar-brand ml-3" to="/"> Shaadi.com </NavLink>
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>

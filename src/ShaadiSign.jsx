@@ -77,7 +77,7 @@ return(
                       name="password"
                       value={data.password}
                       onChange={InputEvent}
-                      placeholder="Enter Name"
+                      placeholder="Enter Password"
                       required
                       autoComplete="off" />
 

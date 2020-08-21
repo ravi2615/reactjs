@@ -1,7 +1,7 @@
 import React from "react";
 import web from "../src/images/Home-Couple-Optimized.png";
 import { NavLink } from "react-router-dom";
-
+import Typical from 'react-typical';
 
 const Shaadi_home = () => {
 
@@ -13,7 +13,12 @@ return(
                  <div className="col-10 mx-auto" >
                      <div className="row">
                      <div className="col-md-6 col-10 mb-1 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column  animated">
-                         <h1> Shaadi.com </h1>
+                          <Typical
+                                steps={['Shaadi.com',3000,'',300]}
+                                loop={Infinity}
+                                wrapper="h1"
+                            />
+                         
                          <h2 className="my-3 text-capitalize"> Find Your <strong className="brand-name"> Special </strong> One
                               
                          </h2>

@@ -7,6 +7,17 @@
 .navbar-brand {
     font-size: 1.5rem !important;
     color: #ffffff !important;
+    animation: brand 2s linear infinite alternate-reverse both;
+}
+
+@keyframes brand {
+    0%{
+        transform: scale(0.5);
+    }
+
+    100%{
+        transform: scale(1.2);
+    }
 }
 
 .navbar a {
@@ -36,6 +47,7 @@
     .navbar-brand {
         font-size: 1.5rem !important;
     }
+
 
     .menu_active {
         font-weight: bold;
@@ -249,7 +261,7 @@
     .card{
         margin: 0 55px;
         height: auto!important;
-        width: 70%!important;
+        width: 100%!important;
         box-shadow: 0 0 10px 0 #cad9e7;
     }
 }
@@ -428,7 +440,7 @@ textarea {
     }
     .log_div{
         width: 70%!important;
-        height: 60vh;
+        height: auto!important;
         padding: 60px 35px 35px 35px;
         background: #ecf0f3;
         box-shadow: 13px 13px 20px #cbced1,
