@@ -11,7 +11,7 @@ return(
         <div className="container-fluid nav_bg" >
             <div className="row" >
                  <div className="col-10 mx-auto" >
-                     <div className="ml-5 col-10 row">
+                     <div className="ml-2 col-10 row">
                      <div className="col-md-6 col-10 mb-1 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column  animated">
                           <Typical
                                 steps={['Shaadi.com',3000,'',300]}
