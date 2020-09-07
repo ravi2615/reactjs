@@ -2,14 +2,15 @@ import React from "react";
 import ReactDom from "react-dom";
 import { BrowserRouter } from "react-router-dom";
 
-import "./index.css";
 
-import App from "./App";
+import "./Shaadi.css";
+
+import Shaadi from "./Shaadi";
 
 ReactDom.render(
     <>
         <BrowserRouter>
-             <App/>
+             <Shaadi/>
         </BrowserRouter>
     </>,document.getElementById("root")
 );
