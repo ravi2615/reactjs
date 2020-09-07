@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/reactjs/static/css/main.fd096481.chunk.css",
-    "main.js": "/reactjs/static/js/main.e78e2f6e.chunk.js",
-    "main.js.map": "/reactjs/static/js/main.e78e2f6e.chunk.js.map",
+    "main.css": "/reactjs/static/css/main.be2fe3f9.chunk.css",
+    "main.js": "/reactjs/static/js/main.377b6539.chunk.js",
+    "main.js.map": "/reactjs/static/js/main.377b6539.chunk.js.map",
     "runtime-main.js": "/reactjs/static/js/runtime-main.ee8c4b6a.js",
     "runtime-main.js.map": "/reactjs/static/js/runtime-main.ee8c4b6a.js.map",
-    "static/js/2.b123de19.chunk.js": "/reactjs/static/js/2.b123de19.chunk.js",
-    "static/js/2.b123de19.chunk.js.map": "/reactjs/static/js/2.b123de19.chunk.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/reactjs/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.149fd340.chunk.js": "/reactjs/static/js/2.149fd340.chunk.js",
+    "static/js/2.149fd340.chunk.js.map": "/reactjs/static/js/2.149fd340.chunk.js.map",
     "index.html": "/reactjs/index.html",
-    "precache-manifest.7db22013ded7bbe0a21b9319d5cf2548.js": "/reactjs/precache-manifest.7db22013ded7bbe0a21b9319d5cf2548.js",
+    "precache-manifest.ad5c86ee4b091f5e22c2be43528593a1.js": "/reactjs/precache-manifest.ad5c86ee4b091f5e22c2be43528593a1.js",
     "service-worker.js": "/reactjs/service-worker.js",
-    "static/css/main.fd096481.chunk.css.map": "/reactjs/static/css/main.fd096481.chunk.css.map",
-    "static/js/2.b123de19.chunk.js.LICENSE.txt": "/reactjs/static/js/2.b123de19.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/reactjs/static/media/slide-1.6bf67e4e.png",
-    "static/media/logo.svg": "/reactjs/static/media/logo.5d5d9eef.svg"
+    "static/css/2.75c4ecca.chunk.css.map": "/reactjs/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.be2fe3f9.chunk.css.map": "/reactjs/static/css/main.be2fe3f9.chunk.css.map",
+    "static/js/2.149fd340.chunk.js.LICENSE.txt": "/reactjs/static/js/2.149fd340.chunk.js.LICENSE.txt",
+    "static/media/Home-Couple-Optimized.png": "/reactjs/static/media/Home-Couple-Optimized.aabd2075.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ee8c4b6a.js",
-    "static/js/2.b123de19.chunk.js",
-    "static/css/main.fd096481.chunk.css",
-    "static/js/main.e78e2f6e.chunk.js"
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.149fd340.chunk.js",
+    "static/css/main.be2fe3f9.chunk.css",
+    "static/js/main.377b6539.chunk.js"
   ]
 }
